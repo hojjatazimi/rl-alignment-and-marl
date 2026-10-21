@@ -1,0 +1,4 @@
+{
+  "base": "Qwen/Qwen2.5-0.5B-Instruct",
+  "init_adapter": null
+}

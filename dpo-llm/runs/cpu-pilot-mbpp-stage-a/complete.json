@@ -1,0 +1,8 @@
+{
+  "samples": 8,
+  "last_metrics": {
+    "passed": 0.0,
+    "pass_at_1": 0.5,
+    "timeout": 0.0
+  }
+}

@@ -1,0 +1,23 @@
+2026-10-21 08:17:12.650 python[21682:15230488] Failure on line 688 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-10-21 08:17:12.744 python[21682:15230546] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-10-21 08:17:12.744 python[21682:15230488] Error received in message reply handler: Connection invalid
+shared-local seed=4 steps=10240: {'eval_return': -21.930137411251263, 'eval_return_std': 4.529686317428349, 'coverage': 0.054666666666666655, 'collisions': 0.13600000000000004}
+shared-local seed=4 steps=20480: {'eval_return': -23.93095676526668, 'eval_return_std': 4.421100509071097, 'coverage': 0.04466666666666667, 'collisions': 0.16600000000000004}
+shared-local seed=4 steps=30720: {'eval_return': -23.249119035968157, 'eval_return_std': 5.020298363330178, 'coverage': 0.029333333333333333, 'collisions': 0.122}
+shared-local seed=4 steps=40960: {'eval_return': -21.96459293307835, 'eval_return_std': 4.352772295296943, 'coverage': 0.05066666666666667, 'collisions': 0.192}
+shared-local seed=4 steps=51200: {'eval_return': -22.075707497948105, 'eval_return_std': 3.8113686367728214, 'coverage': 0.046, 'collisions': 0.2700000000000001}
+shared-local seed=4 steps=61440: {'eval_return': -21.51945357159714, 'eval_return_std': 4.274866346426522, 'coverage': 0.05600000000000001, 'collisions': 0.30200000000000005}
+shared-local seed=4 steps=71680: {'eval_return': -22.572671790640264, 'eval_return_std': 4.378073077501936, 'coverage': 0.046, 'collisions': 0.38400000000000006}
+shared-local seed=4 steps=81920: {'eval_return': -21.164161839048624, 'eval_return_std': 4.297978562220252, 'coverage': 0.05399999999999999, 'collisions': 0.24400000000000005}
+shared-local seed=4 steps=92160: {'eval_return': -22.142559798561965, 'eval_return_std': 4.5019811059438535, 'coverage': 0.06799999999999999, 'collisions': 0.29400000000000004}
+shared-local seed=4 steps=102400: {'eval_return': -21.13887014096245, 'eval_return_std': 3.9724870227256766, 'coverage': 0.03599999999999999, 'collisions': 0.13600000000000004}
+shared-local seed=4 steps=112640: {'eval_return': -21.602799316813496, 'eval_return_std': 5.482726922572339, 'coverage': 0.06266666666666663, 'collisions': 0.3020000000000001}
+shared-local seed=4 steps=122880: {'eval_return': -21.72078353079253, 'eval_return_std': 5.129234506936385, 'coverage': 0.06733333333333333, 'collisions': 0.26399999999999996}
+shared-local seed=4 steps=133120: {'eval_return': -20.2526940624245, 'eval_return_std': 5.326084648561757, 'coverage': 0.056666666666666664, 'collisions': 0.166}
+shared-local seed=4 steps=143360: {'eval_return': -19.65397763598508, 'eval_return_std': 3.8447148083608758, 'coverage': 0.06733333333333333, 'collisions': 0.06400000000000002}
+shared-local seed=4 steps=153600: {'eval_return': -20.225582827941953, 'eval_return_std': 4.1230792614110525, 'coverage': 0.03666666666666666, 'collisions': 0.11200000000000002}
+shared-local seed=4 steps=163840: {'eval_return': -19.556261323848922, 'eval_return_std': 4.863691858620166, 'coverage': 0.08133333333333333, 'collisions': 0.11200000000000002}
+shared-local seed=4 steps=174080: {'eval_return': -20.503422712976768, 'eval_return_std': 4.4276924278562415, 'coverage': 0.04466666666666665, 'collisions': 0.134}
+shared-local seed=4 steps=184320: {'eval_return': -19.34197921305322, 'eval_return_std': 4.7280975440520585, 'coverage': 0.05733333333333331, 'collisions': 0.05600000000000001}
+shared-local seed=4 steps=194560: {'eval_return': -19.643359135583207, 'eval_return_std': 5.234993959626734, 'coverage': 0.06466666666666665, 'collisions': 0.08199999999999999}
+shared-local seed=4 steps=200000: {'eval_return': -20.888433816918308, 'eval_return_std': 4.84354817461321, 'coverage': 0.042666666666666665, 'collisions': 0.06999999999999999}

@@ -1,0 +1,20 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "adapter": null,
+  "label": "base",
+  "seed": 42,
+  "limit": 8,
+  "max_new_tokens": 256,
+  "sandbox": "docker",
+  "out": "dpo-llm/runs/cpu-pilot-mbpp-base",
+  "wandb": false,
+  "kind": "mbpp",
+  "split": "sanitized/test",
+  "python": "3.11.7",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.6.0",
+  "cpu": "arm",
+  "git_revision": null,
+  "cuda": false,
+  "device_name": "CPU"
+}

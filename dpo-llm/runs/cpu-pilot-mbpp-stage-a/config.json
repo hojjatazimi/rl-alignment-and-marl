@@ -1,0 +1,38 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "adapter": "dpo-llm/runs/cpu-pilot/adapter",
+  "label": "pilot",
+  "seed": 42,
+  "limit": 8,
+  "max_new_tokens": 256,
+  "sandbox": "docker",
+  "out": "dpo-llm/runs/cpu-pilot-mbpp-stage-a",
+  "wandb": false,
+  "kind": "mbpp",
+  "assets": {
+    "Qwen/Qwen2.5-0.5B-Instruct": {
+      "revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+      "repo_type": "model"
+    },
+    "OpenAssistant/reward-model-deberta-v3-large-v2": {
+      "revision": "c355404efa9ad2ad069f3a197cae0523c14244fc",
+      "repo_type": "model"
+    },
+    "HuggingFaceH4/ultrafeedback_binarized": {
+      "revision": "3949bf5f8c17c394422ccfab0c31ea9c20bdeb85",
+      "repo_type": "dataset"
+    },
+    "google-research-datasets/mbpp": {
+      "revision": "4bb6404fdc6cacfda99d4ac4205087b89d32030c",
+      "repo_type": "dataset"
+    }
+  },
+  "split": "sanitized/test",
+  "python": "3.11.7",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.6.0",
+  "cpu": "arm",
+  "git_revision": null,
+  "cuda": false,
+  "device_name": "CPU"
+}

@@ -1,0 +1,21 @@
+# Python 3.11. Install swig first (see Makefile) when building box2d-py.
+torch==2.6.0
+numpy==1.26.4
+gymnasium[classic-control]==1.1.1
+pettingzoo[mpe]==1.24.3
+box2d-py==2.3.5
+swig==4.3.1
+matplotlib==3.10.1
+imageio==2.37.0
+pytest==8.3.5
+PyYAML==6.0.2
+wandb==0.19.11
+transformers==4.52.4
+datasets==3.6.0
+trl==0.19.1
+peft==0.15.2
+accelerate==1.7.0
+sentencepiece==0.2.0
+protobuf==5.29.4
+pyarrow==19.0.1
+pandas==2.2.3

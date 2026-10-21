@@ -1,0 +1,18 @@
+{
+  "Qwen/Qwen2.5-0.5B-Instruct": {
+    "revision": "7ae557604adf67be50417f59c2c2f167def9a775",
+    "repo_type": "model"
+  },
+  "OpenAssistant/reward-model-deberta-v3-large-v2": {
+    "revision": "c355404efa9ad2ad069f3a197cae0523c14244fc",
+    "repo_type": "model"
+  },
+  "HuggingFaceH4/ultrafeedback_binarized": {
+    "revision": "3949bf5f8c17c394422ccfab0c31ea9c20bdeb85",
+    "repo_type": "dataset"
+  },
+  "google-research-datasets/mbpp": {
+    "revision": "4bb6404fdc6cacfda99d4ac4205087b89d32030c",
+    "repo_type": "dataset"
+  }
+}

@@ -1,0 +1,10 @@
+[project]
+name = "rl-alignment-and-marl"
+version = "0.1.0"
+description = "Reproducible DPO alignment and from-scratch multi-agent PPO experiments"
+requires-python = ">=3.11,<3.12"
+license = "MIT"
+
+[tool.pytest.ini_options]
+testpaths = ["marl-ppo/tests", "dpo-llm/tests"]
+addopts = "-ra"

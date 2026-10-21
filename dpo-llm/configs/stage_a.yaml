@@ -1,0 +1,15 @@
+model: Qwen/Qwen2.5-0.5B-Instruct
+seed: 42
+pairs: 5000
+beta: 0.1
+learning_rate: 0.000005
+epochs: 1
+lora_rank: 16
+lora_alpha: 32
+lora_dropout: 0.05
+max_length: 1024
+max_prompt_length: 512
+batch_size: 1
+gradient_accumulation_steps: 16
+logging_steps: 10
+max_steps: -1

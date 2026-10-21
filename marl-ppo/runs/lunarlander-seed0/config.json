@@ -1,0 +1,20 @@
+{
+  "env": "LunarLander-v3",
+  "steps": 200000,
+  "seed": 0,
+  "envs": 8,
+  "horizon": 128,
+  "eval_every": 10000,
+  "eval_episodes": 20,
+  "lr": 0.0003,
+  "out": "marl-ppo/runs/lunarlander-seed0",
+  "wandb": false,
+  "kind": "single",
+  "python": "3.11.7",
+  "platform": "macOS-27.0.1-arm64-arm-64bit",
+  "torch": "2.6.0",
+  "cpu": "arm",
+  "git_revision": null,
+  "cuda": false,
+  "device_name": "CPU"
+}

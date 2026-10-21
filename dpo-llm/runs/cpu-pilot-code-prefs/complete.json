@@ -1,0 +1,9 @@
+{
+  "samples": 32,
+  "last_metrics": {
+    "passed": 0.0,
+    "timeout": 0.0,
+    "pairs": 2.0,
+    "sample_pass_rate": 0.46875
+  }
+}

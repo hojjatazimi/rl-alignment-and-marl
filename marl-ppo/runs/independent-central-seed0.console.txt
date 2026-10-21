@@ -1,0 +1,23 @@
+2026-10-21 08:17:18.155 python[21700:15230791] Failure on line 688 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-10-21 08:17:18.247 python[21700:15230864] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-10-21 08:17:18.247 python[21700:15230791] Error received in message reply handler: Connection invalid
+independent-central seed=0 steps=10240: {'eval_return': -24.55578123623922, 'eval_return_std': 5.235946118149941, 'coverage': 0.022666666666666672, 'collisions': 0.068}
+independent-central seed=0 steps=20480: {'eval_return': -22.385483478006464, 'eval_return_std': 3.8210808619012355, 'coverage': 0.033333333333333326, 'collisions': 0.13200000000000003}
+independent-central seed=0 steps=30720: {'eval_return': -21.551476793194492, 'eval_return_std': 3.4878844006958136, 'coverage': 0.06066666666666667, 'collisions': 0.20800000000000002}
+independent-central seed=0 steps=40960: {'eval_return': -21.823400466491517, 'eval_return_std': 4.359578175081906, 'coverage': 0.044, 'collisions': 0.16400000000000003}
+independent-central seed=0 steps=51200: {'eval_return': -22.467838492164585, 'eval_return_std': 3.9841672532069587, 'coverage': 0.04733333333333333, 'collisions': 0.23000000000000004}
+independent-central seed=0 steps=61440: {'eval_return': -22.079000855123553, 'eval_return_std': 3.8616285697869963, 'coverage': 0.05199999999999999, 'collisions': 0.13999999999999999}
+independent-central seed=0 steps=71680: {'eval_return': -21.266950330029264, 'eval_return_std': 4.830517980199522, 'coverage': 0.05266666666666666, 'collisions': 0.152}
+independent-central seed=0 steps=81920: {'eval_return': -22.099662455381427, 'eval_return_std': 5.339025289795374, 'coverage': 0.02733333333333333, 'collisions': 0.12000000000000002}
+independent-central seed=0 steps=92160: {'eval_return': -21.909487703982215, 'eval_return_std': 4.388169027637027, 'coverage': 0.03533333333333333, 'collisions': 0.12}
+independent-central seed=0 steps=102400: {'eval_return': -21.269339638229646, 'eval_return_std': 4.186785033071285, 'coverage': 0.04466666666666666, 'collisions': 0.168}
+independent-central seed=0 steps=112640: {'eval_return': -22.716748940198467, 'eval_return_std': 4.30880323070889, 'coverage': 0.04866666666666667, 'collisions': 0.23600000000000004}
+independent-central seed=0 steps=122880: {'eval_return': -21.126455532786046, 'eval_return_std': 3.428219480847098, 'coverage': 0.05466666666666666, 'collisions': 0.20600000000000004}
+independent-central seed=0 steps=133120: {'eval_return': -21.181055704618988, 'eval_return_std': 3.858060133819071, 'coverage': 0.06533333333333333, 'collisions': 0.22400000000000003}
+independent-central seed=0 steps=143360: {'eval_return': -20.505156144304806, 'eval_return_std': 4.543337376329789, 'coverage': 0.05399999999999999, 'collisions': 0.12}
+independent-central seed=0 steps=153600: {'eval_return': -20.701890631759454, 'eval_return_std': 4.593428651938648, 'coverage': 0.06933333333333333, 'collisions': 0.15000000000000002}
+independent-central seed=0 steps=163840: {'eval_return': -20.6700927710852, 'eval_return_std': 3.901192542699897, 'coverage': 0.055999999999999994, 'collisions': 0.14400000000000002}
+independent-central seed=0 steps=174080: {'eval_return': -19.82178933314961, 'eval_return_std': 3.895536940955142, 'coverage': 0.04133333333333333, 'collisions': 0.16}
+independent-central seed=0 steps=184320: {'eval_return': -20.643877127863348, 'eval_return_std': 4.730715824167452, 'coverage': 0.05, 'collisions': 0.10199999999999998}
+independent-central seed=0 steps=194560: {'eval_return': -20.847553408828134, 'eval_return_std': 4.882627923859654, 'coverage': 0.06266666666666666, 'collisions': 0.06200000000000001}
+independent-central seed=0 steps=200000: {'eval_return': -20.35136030088785, 'eval_return_std': 4.185822572869417, 'coverage': 0.05266666666666666, 'collisions': 0.066}

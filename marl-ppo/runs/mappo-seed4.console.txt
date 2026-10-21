@@ -1,0 +1,23 @@
+2026-10-21 08:14:17.243 python[21386:15226469] Failure on line 688 in function id scheduleApplicationNotification(LSNotificationCode, NSWorkspaceNotificationCenter *): noErr == _LSModifyNotification(notificationID, 1, &code, 0, NULL, NULL, NULL)
+2026-10-21 08:14:17.328 python[21386:15226525] Connection Invalid error for service com.apple.hiservices-xpcservice.
+2026-10-21 08:14:17.328 python[21386:15226469] Error received in message reply handler: Connection invalid
+mappo seed=4 steps=10240: {'eval_return': -24.2038391137067, 'eval_return_std': 4.8302803421350555, 'coverage': 0.03133333333333333, 'collisions': 0.09999999999999999}
+mappo seed=4 steps=20480: {'eval_return': -22.447909298735283, 'eval_return_std': 4.210170148384821, 'coverage': 0.03933333333333333, 'collisions': 0.09600000000000002}
+mappo seed=4 steps=30720: {'eval_return': -27.064664388755034, 'eval_return_std': 8.663498175153249, 'coverage': 0.021333333333333333, 'collisions': 0.05600000000000001}
+mappo seed=4 steps=40960: {'eval_return': -25.615442626505875, 'eval_return_std': 4.944888088111015, 'coverage': 0.028666666666666663, 'collisions': 0.086}
+mappo seed=4 steps=51200: {'eval_return': -25.04501509676175, 'eval_return_std': 4.8123754892580735, 'coverage': 0.045999999999999985, 'collisions': 0.11200000000000002}
+mappo seed=4 steps=61440: {'eval_return': -24.647384004113416, 'eval_return_std': 4.188048058024676, 'coverage': 0.03466666666666666, 'collisions': 0.12400000000000003}
+mappo seed=4 steps=71680: {'eval_return': -21.69651524054562, 'eval_return_std': 4.63737040969171, 'coverage': 0.05399999999999999, 'collisions': 0.21800000000000003}
+mappo seed=4 steps=81920: {'eval_return': -21.63376576038096, 'eval_return_std': 4.574883243332958, 'coverage': 0.052000000000000005, 'collisions': 0.154}
+mappo seed=4 steps=92160: {'eval_return': -21.961554121448636, 'eval_return_std': 4.620060602925635, 'coverage': 0.04999999999999999, 'collisions': 0.192}
+mappo seed=4 steps=102400: {'eval_return': -21.27364098460272, 'eval_return_std': 3.979085468636751, 'coverage': 0.057999999999999996, 'collisions': 0.20800000000000002}
+mappo seed=4 steps=112640: {'eval_return': -20.042826579702357, 'eval_return_std': 5.037936157964268, 'coverage': 0.06199999999999998, 'collisions': 0.08199999999999999}
+mappo seed=4 steps=122880: {'eval_return': -21.516457042993444, 'eval_return_std': 4.867209012294676, 'coverage': 0.06466666666666666, 'collisions': 0.268}
+mappo seed=4 steps=133120: {'eval_return': -20.842936394592414, 'eval_return_std': 5.028155573995808, 'coverage': 0.035333333333333335, 'collisions': 0.168}
+mappo seed=4 steps=143360: {'eval_return': -20.037357931192304, 'eval_return_std': 5.173755132874237, 'coverage': 0.06866666666666667, 'collisions': 0.10600000000000001}
+mappo seed=4 steps=153600: {'eval_return': -21.26553863045085, 'eval_return_std': 4.239748811087877, 'coverage': 0.08533333333333333, 'collisions': 0.26800000000000007}
+mappo seed=4 steps=163840: {'eval_return': -20.06115933967192, 'eval_return_std': 4.603343875489153, 'coverage': 0.044666666666666674, 'collisions': 0.118}
+mappo seed=4 steps=174080: {'eval_return': -19.630114377324436, 'eval_return_std': 5.001313336241018, 'coverage': 0.08066666666666666, 'collisions': 0.11800000000000002}
+mappo seed=4 steps=184320: {'eval_return': -19.96095008131274, 'eval_return_std': 4.697336305270716, 'coverage': 0.06999999999999998, 'collisions': 0.084}
+mappo seed=4 steps=194560: {'eval_return': -20.041394169438533, 'eval_return_std': 3.8158075455580587, 'coverage': 0.03866666666666667, 'collisions': 0.082}
+mappo seed=4 steps=200000: {'eval_return': -20.553635490973925, 'eval_return_std': 4.45413961251349, 'coverage': 0.057999999999999996, 'collisions': 0.17400000000000002}
